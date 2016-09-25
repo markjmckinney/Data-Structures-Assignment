@@ -1,0 +1,6 @@
+c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.exe.config
+c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.exe
+c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.pdb
+c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.csprojResolveAssemblyReference.cache
+c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.exe
+c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.pdb
