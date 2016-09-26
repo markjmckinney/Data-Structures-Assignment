@@ -4,3 +4,9 @@ c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssi
 c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.csprojResolveAssemblyReference.cache
 c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.exe
 c:\users\markj\onedrive\documents\visual studio 2013\Projects\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.pdb
+C:\Users\timleo\Documents\Visual Studio 2013\Projects\Data-Structures-Assignment\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.exe.config
+C:\Users\timleo\Documents\Visual Studio 2013\Projects\Data-Structures-Assignment\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.exe
+C:\Users\timleo\Documents\Visual Studio 2013\Projects\Data-Structures-Assignment\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.pdb
+C:\Users\timleo\Documents\Visual Studio 2013\Projects\Data-Structures-Assignment\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.exe
+C:\Users\timleo\Documents\Visual Studio 2013\Projects\Data-Structures-Assignment\DataStructuresAssignment\DataStructuresAssignment\bin\Debug\DataStructuresAssignment.pdb
+C:\Users\timleo\Documents\Visual Studio 2013\Projects\Data-Structures-Assignment\DataStructuresAssignment\DataStructuresAssignment\obj\Debug\DataStructuresAssignment.csprojResolveAssemblyReference.cache

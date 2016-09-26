@@ -46,6 +46,7 @@ namespace DataStructuresAssignment
                 Console.WriteLine("1. Stack \n2. Queue \n3. Dictionary \n4. Exit");
                 int input = Convert.ToInt32(Console.ReadLine());
                 int input2 = 0;
+                string inputque1;
                 switch (input)
                 {
                     case 1: Console.WriteLine("1. Add one time to Stack");
@@ -55,7 +56,7 @@ namespace DataStructuresAssignment
                         Console.WriteLine("5. Clear Stack");
                         Console.WriteLine("6. Search Stack");
                         Console.WriteLine("7. Return to Main Menu");
-                        input = Convert.ToInt32(Console.ReadLine());
+                        input2 = Convert.ToInt32(Console.ReadLine());
                         switch (input2)
                         {
                             case 1:
@@ -84,13 +85,93 @@ namespace DataStructuresAssignment
                         }
                         break;
 
-                    case 2: Console.WriteLine("1. Add one time to Queue");
+                    case 2: 
+                        
+                        
+                        Console.WriteLine("1. Add one time to Queue");
                         Console.WriteLine("2. Add Huge List of Items to Queue");
                         Console.WriteLine("3. Display Queue");
                         Console.WriteLine("4. Delete from Queue");
                         Console.WriteLine("5. Clear Queue");
                         Console.WriteLine("6. Search Queue");
                         Console.WriteLine("7. Return to Main Menu");
+                        input2 = Convert.ToInt32(Console.ReadLine());
+                        switch (input2)
+                        {
+                            case 1:
+                                Console.WriteLine("Please enter a 'string' value");
+                               
+                                //need to do a try catch here. haven't done it yet
+                                
+                                inputque1 = Console.ReadLine();
+                                myQueue.Enqueue(inputque1);
+
+                                Console.WriteLine("\n\n\n");
+
+                                
+                                break;
+                                
+
+
+                            case 2:
+                                
+                                myQueue.Clear();
+                               
+                               
+                                while(myQueue.Count <= 2000)
+                                {
+                                    myQueue.Enqueue("New Entry " + myQueue.Count.ToString());
+
+
+                                }
+
+                                Console.WriteLine("\n\n\n");
+
+                                break;
+
+                            case 3: 
+                                
+                                foreach(string item in myQueue)
+                                {
+                                    Console.WriteLine(item);
+                                }
+                                Console.WriteLine("\n\n\n");
+                                break;
+
+                            case 4:
+
+
+
+
+
+                                Console.WriteLine("\n\n\n");
+
+                                break;
+
+                            case 5:
+
+
+                                Console.WriteLine("\n\n\n");
+
+                                break;
+
+                            case 6:
+
+
+                                Console.WriteLine("\n\n\n");
+
+                                break;
+
+                            case 7:
+
+
+                                Console.WriteLine("\n\n\n");
+
+                                break;
+
+
+
+                        }
                         break;
                     case 3: Console.WriteLine("1. Add one item to Dictionary");
                         Console.WriteLine("2. Add Huge List of Items to Dictionary");
@@ -99,6 +180,28 @@ namespace DataStructuresAssignment
                         Console.WriteLine("5. Clear Dictionary");
                         Console.WriteLine("6. Search Dictionary");
                         Console.WriteLine("7. Return to Main Menu");
+
+                        input = Convert.ToInt32(Console.ReadLine());
+                        switch (input2)
+                        {
+                            case 1: break;
+
+                            case 2: break;
+
+                            case 3: break;
+
+                            case 4: break;
+
+                            case 5: break;
+
+                            case 6: break;
+
+                            case 7: break;
+
+
+
+                        }
+
                         break;
                     default: a = false; break;
                 }
